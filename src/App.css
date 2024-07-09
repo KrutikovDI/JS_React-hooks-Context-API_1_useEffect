@@ -1,0 +1,27 @@
+.body{
+    display: flex;
+    font-family: Tahoma, sans-serif;
+    font-size: 18px;
+}
+
+.name{
+    width: 250px;
+    height: 40px;
+    border: 1px solid rgb(188, 188, 188);
+    padding: 10% 0 0 10px;
+    cursor: pointer;
+}
+
+.details{
+    width: 300px;
+    margin-left: 50px;
+    border: 1px solid rgb(188, 188, 188);
+    height: 100%;
+}
+
+.field{
+    height: 50px;
+    border-bottom: 1px solid rgb(188, 188, 188);
+    text-align: center;
+    padding: 10% 0 0 0 ;
+}
